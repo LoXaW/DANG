@@ -36,13 +36,13 @@ Before, We start please follow these Steps: <kbd>Required*</kbd>
 - If this returns/logs random number starting with <kbd>v</kbd> then All Good 👍
 
 ## 🍀 Installation
-- If Git is not installed Ignore [Installation](https://github.com/Dreamyplayer/DANG#installation) step -
-And download code directly [**Here**](https://github.com/Dreamyplayer/DANG "Discord Ntro Gen & Checker").
+- If Git is not installed Ignore [Installation](https://github.com/xesenix1/Nitro-Generator#installation) step -
+And download code directly [**Here**](https://github.com/xesenix1/Nitro-Generator "Discord Ntro Gen & Checker").
 - Open <kbd>Folder</kbd> where you want to clone this repo
 - Open terminal & Run below command.
 
 ```console
-git clone https://github.com/Dreamyplayer/DANG.git
+git clone https://github.com/xesenix1/Nitro-Generator.git
 ```
 
 ## ☕ Usage
